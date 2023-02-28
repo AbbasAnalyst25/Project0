@@ -1,4 +1,4 @@
-# Data Analyst Portfolio Project
+# COVID | Data Exploration Portfolio Projects
 
  This Repository will hold all of the code and queries from the Portfolio Projects I create.
 
